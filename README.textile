@@ -1,0 +1,6 @@
+h1. snipmate-snippets
+
+To use these with Vundle simply create a symbolic link in the ~/.vim directory.
+ie.
+
+ln -s ~/.vim/bundle/snipmate-snippets/ ~/.vim/snippets
